@@ -33,7 +33,7 @@ return(
 
 <div>
 
-<h1>🚦 Smart Traffic Signal Optimization</h1>
+<h1> Smart Traffic Signal Optimization</h1>
 
 <input type="file" onChange={uploadImage}/>
 
